@@ -1,11 +1,16 @@
 {
-	"ignored_packages": ["Vintage", "PHP"],
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"detect_indentation": false,
+	"draw_indent_guides": true,
+	"font_face": "Inconsolata",
+	"font_size": 13,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage",
+		"PHP"
+	],
 	"match_brackets": false,
 	"tab_size": 4,
-	"translate_tabs_to_spaces": true,
-    "font_face": "Inconsolata",
-    "font_size": 13,
-    "highlight_line": true,
-    "draw_indent_guides": true,
-    "detect_indentation": false    
+	"translate_tabs_to_spaces": true
 }

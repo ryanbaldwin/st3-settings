@@ -16,9 +16,13 @@
 		"Git",
 		"GitGutter",
 		"lispindent",
+		"LiveReload",
 		"Load file to REPL",
 		"Package Control",
 		"paredit",
-		"SublimeREPL"
+		"SublimeLinter",
+		"SublimeREPL",
+		"Theme - Phoenix",
+		"Theme - Soda"
 	]
 }
