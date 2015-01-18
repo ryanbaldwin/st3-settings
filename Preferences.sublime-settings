@@ -1,5 +1,5 @@
 {
-	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Monokai Soda (SL).tmTheme",
 	"detect_indentation": false,
 	"draw_indent_guides": true,
 	"font_face": "Inconsolata",
@@ -12,5 +12,6 @@
 	],
 	"match_brackets": false,
 	"tab_size": 4,
+	"theme": "Soda Dark 3.sublime-theme",
 	"translate_tabs_to_spaces": true
 }

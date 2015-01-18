@@ -12,17 +12,19 @@
 		"BracketHighlighter",
 		"ClojureDocSearch",
 		"Dockerfile Syntax Highlighting",
+		"EDN",
 		"Enhanced Clojure",
 		"Git",
 		"GitGutter",
+		"Grunt",
 		"lispindent",
 		"LiveReload",
 		"Load file to REPL",
+		"Origami",
 		"Package Control",
 		"paredit",
 		"SublimeLinter",
 		"SublimeREPL",
-		"Theme - Phoenix",
-		"Theme - Soda"
+		"Theme - Phoenix"
 	]
 }
