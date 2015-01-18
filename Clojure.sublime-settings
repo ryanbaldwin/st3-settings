@@ -1,0 +1,11 @@
+// installed Clojure packages:
+// 
+// * BracketHighlighter
+// * lispindent
+// * SublimeREPL
+// * sublime-paredit
+{
+  "word_separators": "/\\()\"',;!@$%^&|+=[]{}`~?",
+  "paredit_enabled": true,
+  "paredit_dont_match_single_quotes": true
+}

@@ -1,0 +1,11 @@
+{
+	"ignored_packages": ["Vintage", "PHP"],
+	"match_brackets": false,
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true,
+    "font_face": "Inconsolata",
+    "font_size": 13,
+    "highlight_line": true,
+    "draw_indent_guides": true,
+    "detect_indentation": false    
+}
