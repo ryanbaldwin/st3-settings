@@ -1,0 +1,33 @@
+{
+	"javatar_gp": 0,
+	"jdk_version":
+	{
+		"JDK1.6.0u29":
+		{
+			"path": "/Library/Java/JavaVirtualMachines/1.6.0_29-b11-402.jdk/Contents/Home/bundle/Home/bundle/Home/bundle/Home/bundle/Home/bundle/Home/bundle/Home/bundle/Home/bundle/Home/bundle/Home/bundle/Home/bundle/Home/bundle/Home/bundle/Home/bundle/Home/bundle/Home/bundle/Home/bundle/Home/bundle/Home/bundle/Home/bundle/Home/bundle/Home/bundle/Home/bundle/Home/bundle/Home/bundle/Home/bundle/Home/bundle/Home/bundle/Home/bundle/Home/bundle/Home/bundle/Home/bundle/Home/bin",
+			"update": "29",
+			"version": "1.6.0"
+		},
+		"JDK1.7.0u71":
+		{
+			"path": "/Library/Java/JavaVirtualMachines/jdk1.7.0_71.jdk/Contents/Home/bin",
+			"update": "71",
+			"version": "1.7.0"
+		},
+		"use": ""
+	},
+	"message_id": 20,
+	"project_data":
+	{
+		"2":
+		{
+			"folders":
+			[
+				{
+					"follow_symlinks": true,
+					"path": "."
+				}
+			]
+		}
+	}
+}

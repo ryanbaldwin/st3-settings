@@ -17,14 +17,18 @@
 		"Git",
 		"GitGutter",
 		"Grunt",
+		"Javatar",
 		"lispindent",
 		"LiveReload",
 		"Load file to REPL",
+		"Markdown Preview",
+		"Maven",
 		"Origami",
 		"Package Control",
 		"paredit",
 		"SublimeLinter",
 		"SublimeREPL",
+		"Swift",
 		"Theme - Phoenix"
 	]
 }
